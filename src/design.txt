@@ -1,0 +1,8 @@
+1. Navbar ---> ✅ 
+2. banner ---> ✅
+3. features ---> ✅
+4. about us ---> ✅
+5. our serices
+6. projects
+7. contacus
+8. footer
